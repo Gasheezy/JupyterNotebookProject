@@ -1,6 +1,6 @@
- ----------we need a virtual environment with 
+ ----------we need a virtual environment with
  ----------all python and jupyter packages
- 
+
  virtualenv venv --python=python3
    ls
    source venv/bin/activate
@@ -24,4 +24,6 @@
 --------to view all the packages installed in out virtual environment
    pip freeze > requirements.txt
    ls
-   cat requirements.txt 
+   cat requirements.txt
+
+   This is a test of reversing changes in git, nice.
